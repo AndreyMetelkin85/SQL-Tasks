@@ -1,6 +1,6 @@
 Краткая информация о базе данных "Компьютерная фирма":
 
-Скрыть|Hide
+
 Схема БД состоит из четырех таблиц:
 Product(maker, model, type)
 PC(code, model, speed, ram, hd, cd, price)
